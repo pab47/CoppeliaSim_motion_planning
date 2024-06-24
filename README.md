@@ -1,7 +1,8 @@
 # CoppeliaSim_motion_planning
 Work done by Saurabh Bharane in Spring 2024.
 
-Videos
+Videos:
+
 https://youtu.be/P98ZjHzeOtQ
 
 https://youtu.be/OjDhxGP9NaU
